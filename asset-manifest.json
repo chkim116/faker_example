@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chkim116/faker_example/static/css/main.063d1dff.chunk.css",
+    "main.js": "/chkim116/faker_example/static/js/main.87a55529.chunk.js",
+    "main.js.map": "/chkim116/faker_example/static/js/main.87a55529.chunk.js.map",
+    "runtime-main.js": "/chkim116/faker_example/static/js/runtime-main.75cf9a66.js",
+    "runtime-main.js.map": "/chkim116/faker_example/static/js/runtime-main.75cf9a66.js.map",
+    "static/js/2.7fc9c129.chunk.js": "/chkim116/faker_example/static/js/2.7fc9c129.chunk.js",
+    "static/js/2.7fc9c129.chunk.js.map": "/chkim116/faker_example/static/js/2.7fc9c129.chunk.js.map",
+    "static/js/3.10ef6238.chunk.js": "/chkim116/faker_example/static/js/3.10ef6238.chunk.js",
+    "static/js/3.10ef6238.chunk.js.map": "/chkim116/faker_example/static/js/3.10ef6238.chunk.js.map",
+    "index.html": "/chkim116/faker_example/index.html",
+    "static/css/main.063d1dff.chunk.css.map": "/chkim116/faker_example/static/css/main.063d1dff.chunk.css.map",
+    "static/js/2.7fc9c129.chunk.js.LICENSE.txt": "/chkim116/faker_example/static/js/2.7fc9c129.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75cf9a66.js",
+    "static/js/2.7fc9c129.chunk.js",
+    "static/css/main.063d1dff.chunk.css",
+    "static/js/main.87a55529.chunk.js"
+  ]
+}
