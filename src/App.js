@@ -13,13 +13,13 @@ const theme = {
     lightenBlack: "#f5f8fa",
     blue: "#1da1f2",
     red: "#d63031",
-    border: "rgba (0,0,0,0.2)",
+    border: "rgba(0,0,0,0.2)",
 };
 
 function App() {
     return (
         <ThemeProvider theme={theme}>
-            <Container />;
+            <Container />
         </ThemeProvider>
     );
 }
